@@ -73,6 +73,7 @@ ul li{
     list-style: none;
     font-size: 17px;
     padding: 15px 8px 12px 50px;
+    -webkit-user-select: none;
     user-select: none;
     cursor: pointer;
     position: relative;
