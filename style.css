@@ -5,6 +5,8 @@
     box-sizing: border-box;
 }
 
+/* Basic format and headers  */
+
 .container{
     width: 100%;
     min-height: 100vh;
@@ -35,6 +37,8 @@
 
 }
 
+/* Add Task row  */
+
 .row {
     display: flex;
     align-items: center;
@@ -62,6 +66,8 @@ button{
     border-radius: 40px;
     cursor: pointer;
 } 
+
+/* task list item style */
 
 ul li{
     list-style: none;
